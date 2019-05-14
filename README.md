@@ -1,3 +1,6 @@
+node_modules\node-gyp\package.json
+update tar version to 4.2.2 latest for avoiding valuenrablity issue.
+
 # RrMgnt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.7.
